@@ -6,10 +6,12 @@ FREE SOURCES
 https://www.npmjs.com/package/geoip-lite
 
 
-#INSTALL 
+#INSTALL
+
 npm install 
 
 #RUN
+
 npm start
 
 
